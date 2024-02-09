@@ -1,0 +1,133 @@
+[2024-02-08::22:42:55] [INFO]: Starting unit test...
+[2024-02-08::22:44:30] [INFO]: Starting unit test...
+[2024-02-08::22:56:07] [INFO]: Starting unit test...
+[2024-02-08::22:56:07] [INFO]: Test 'customScalar':<shape=[32],scalar=1.000000,scale=10.000000>
+[2024-02-08::22:56:28] [INFO]: Starting unit test...
+[2024-02-08::22:56:28] [INFO]: Test 'customScalar':<shape=[32],scalar=1.000000,scale=10.000000>
+[2024-02-09::01:18:46] [INFO]: Starting unit test...
+[2024-02-09::01:18:46] [INFO]: Test 'customScalar':<shape=[32],scalar=1.000000,scale=10.000000>
+[2024-02-09::01:20:42] [INFO]: Starting unit test...
+[2024-02-09::01:20:42] [INFO]: Test 'customScalar':<shape=[32],scalar=1.000000,scale=10.000000>
+[2024-02-09::01:28:22] [INFO]: Starting unit test...
+[2024-02-09::01:28:22] [INFO]: Test 'customScalar':<shape=[32],scalar=1.000000,scale=10.000000>
+[2024-02-09::01:48:27] [INFO]: Starting unit test...
+[2024-02-09::01:48:27] [INFO]: Test 'customScalar':<shape=[32],scalar=1.000000,scale=10.000000>
+[2024-02-09::01:48:31] [INFO]: Succeeded building engine!
+[2024-02-09::01:48:31] [INFO]: check:True, absDiff=0.000000, relDiff=0.000000
+[2024-02-09::01:48:31] [INFO]: Test 'customScalar':<shape=[32],scalar=1.000000,scale=10.000000> finish!
+
+[2024-02-09::01:48:31] [INFO]: Test 'customScalar':<shape=[32, 32],scalar=2.000000,scale=5.000000>
+[2024-02-09::01:48:31] [INFO]: Succeeded building engine!
+[2024-02-09::01:48:31] [INFO]: check:True, absDiff=0.000000, relDiff=0.000000
+[2024-02-09::01:48:31] [INFO]: Test 'customScalar':<shape=[32, 32],scalar=2.000000,scale=5.000000> finish!
+
+[2024-02-09::01:48:31] [INFO]: Test 'customScalar':<shape=[16, 16, 16],scalar=1.000000,scale=3.000000>
+[2024-02-09::01:48:31] [INFO]: Succeeded building engine!
+[2024-02-09::01:48:31] [INFO]: check:True, absDiff=0.000000, relDiff=0.000000
+[2024-02-09::01:48:31] [INFO]: Test 'customScalar':<shape=[16, 16, 16],scalar=1.000000,scale=3.000000> finish!
+
+[2024-02-09::01:48:31] [INFO]: Test 'customScalar':<shape=[8, 8, 8, 8],scalar=1.000000,scale=5.000000>
+[2024-02-09::01:48:31] [INFO]: Succeeded building engine!
+[2024-02-09::01:48:31] [INFO]: check:True, absDiff=0.000000, relDiff=0.000000
+[2024-02-09::01:48:31] [INFO]: Test 'customScalar':<shape=[8, 8, 8, 8],scalar=1.000000,scale=5.000000> finish!
+
+[2024-02-09::01:48:31] [INFO]: All tests are passed!!
+[2024-02-09::01:48:39] [INFO]: Starting unit test...
+[2024-02-09::01:48:39] [INFO]: Test 'customScalar':<shape=[32],scalar=1.000000,scale=10.000000>
+[2024-02-09::01:48:40] [INFO]: Succeeded loading engine!
+[2024-02-09::01:48:40] [INFO]: check:True, absDiff=0.000000, relDiff=0.000000
+[2024-02-09::01:48:40] [INFO]: Test 'customScalar':<shape=[32],scalar=1.000000,scale=10.000000> finish!
+
+[2024-02-09::01:48:40] [INFO]: Test 'customScalar':<shape=[32, 32],scalar=2.000000,scale=5.000000>
+[2024-02-09::01:48:40] [INFO]: Succeeded loading engine!
+[2024-02-09::01:48:40] [INFO]: check:True, absDiff=0.000000, relDiff=0.000000
+[2024-02-09::01:48:40] [INFO]: Test 'customScalar':<shape=[32, 32],scalar=2.000000,scale=5.000000> finish!
+
+[2024-02-09::01:48:40] [INFO]: Test 'customScalar':<shape=[16, 16, 16],scalar=1.000000,scale=3.000000>
+[2024-02-09::01:48:40] [INFO]: Succeeded loading engine!
+[2024-02-09::01:48:40] [INFO]: check:True, absDiff=0.000000, relDiff=0.000000
+[2024-02-09::01:48:40] [INFO]: Test 'customScalar':<shape=[16, 16, 16],scalar=1.000000,scale=3.000000> finish!
+
+[2024-02-09::01:48:40] [INFO]: Test 'customScalar':<shape=[8, 8, 8, 8],scalar=1.000000,scale=5.000000>
+[2024-02-09::01:48:40] [INFO]: Succeeded loading engine!
+[2024-02-09::01:48:40] [INFO]: check:True, absDiff=0.000000, relDiff=0.000000
+[2024-02-09::01:48:40] [INFO]: Test 'customScalar':<shape=[8, 8, 8, 8],scalar=1.000000,scale=5.000000> finish!
+
+[2024-02-09::01:48:40] [INFO]: All tests are passed!!
+[2024-02-09::10:35:52] [INFO]: Starting unit test...
+[2024-02-09::10:35:52] [INFO]: Test 'customScalar':<shape=[32],scalar=1.000000,scale=10.000000>
+[2024-02-09::10:36:28] [INFO]: Starting unit test...
+[2024-02-09::10:36:28] [INFO]: Test 'customScalar':<shape=[32],scalar=1.000000,scale=10.000000>
+[2024-02-09::10:36:30] [INFO]: Succeeded loading engine!
+[2024-02-09::10:36:30] [INFO]: check:True, absDiff=0.000000, relDiff=0.000000
+[2024-02-09::10:36:30] [INFO]: Test 'customScalar':<shape=[32],scalar=1.000000,scale=10.000000> finish!
+
+[2024-02-09::10:36:30] [INFO]: Test 'customScalar':<shape=[32, 32],scalar=2.000000,scale=5.000000>
+[2024-02-09::10:36:30] [INFO]: Succeeded loading engine!
+[2024-02-09::10:36:30] [INFO]: check:True, absDiff=0.000000, relDiff=0.000000
+[2024-02-09::10:36:30] [INFO]: Test 'customScalar':<shape=[32, 32],scalar=2.000000,scale=5.000000> finish!
+
+[2024-02-09::10:36:30] [INFO]: Test 'customScalar':<shape=[16, 16, 16],scalar=1.000000,scale=3.000000>
+[2024-02-09::10:36:30] [INFO]: Succeeded loading engine!
+[2024-02-09::10:36:30] [INFO]: check:True, absDiff=0.000000, relDiff=0.000000
+[2024-02-09::10:36:30] [INFO]: Test 'customScalar':<shape=[16, 16, 16],scalar=1.000000,scale=3.000000> finish!
+
+[2024-02-09::10:36:30] [INFO]: Test 'customScalar':<shape=[8, 8, 8, 8],scalar=1.000000,scale=5.000000>
+[2024-02-09::10:36:30] [INFO]: Succeeded loading engine!
+[2024-02-09::10:36:30] [INFO]: check:True, absDiff=0.000000, relDiff=0.000000
+[2024-02-09::10:36:30] [INFO]: Test 'customScalar':<shape=[8, 8, 8, 8],scalar=1.000000,scale=5.000000> finish!
+
+[2024-02-09::10:36:30] [INFO]: All tests are passed!!
+[2024-02-09::10:36:50] [INFO]: Starting unit test...
+[2024-02-09::10:36:51] [INFO]: Test 'customScalar':<shape=[32],scalar=1.000000,scale=10.000000>
+[2024-02-09::10:36:52] [INFO]: Succeeded loading engine!
+[2024-02-09::10:36:52] [INFO]: check:True, absDiff=0.000000, relDiff=0.000000
+[2024-02-09::10:36:52] [INFO]: Test 'customScalar':<shape=[32],scalar=1.000000,scale=10.000000> finish!
+
+[2024-02-09::10:36:52] [INFO]: Test 'customScalar':<shape=[32, 32],scalar=2.000000,scale=5.000000>
+[2024-02-09::10:36:52] [INFO]: Succeeded loading engine!
+[2024-02-09::10:36:52] [INFO]: check:True, absDiff=0.000000, relDiff=0.000000
+[2024-02-09::10:36:52] [INFO]: Test 'customScalar':<shape=[32, 32],scalar=2.000000,scale=5.000000> finish!
+
+[2024-02-09::10:36:52] [INFO]: Test 'customScalar':<shape=[16, 16, 16],scalar=1.000000,scale=3.000000>
+[2024-02-09::10:36:52] [INFO]: Succeeded loading engine!
+[2024-02-09::10:36:52] [INFO]: check:True, absDiff=0.000000, relDiff=0.000000
+[2024-02-09::10:36:52] [INFO]: Test 'customScalar':<shape=[16, 16, 16],scalar=1.000000,scale=3.000000> finish!
+
+[2024-02-09::10:36:52] [INFO]: Test 'customScalar':<shape=[8, 8, 8, 8],scalar=1.000000,scale=5.000000>
+[2024-02-09::10:36:52] [INFO]: Succeeded loading engine!
+[2024-02-09::10:36:52] [INFO]: check:True, absDiff=0.000000, relDiff=0.000000
+[2024-02-09::10:36:52] [INFO]: Test 'customScalar':<shape=[8, 8, 8, 8],scalar=1.000000,scale=5.000000> finish!
+
+[2024-02-09::10:36:52] [INFO]: All tests are passed!!
+[2024-02-09::10:38:27] [INFO]: Starting unit test...
+[2024-02-09::10:38:27] [INFO]: Test 'customScalar':<shape=[32],scalar=1.000000,scale=10.000000>
+[2024-02-09::10:38:46] [INFO]: Succeeded loading engine!
+[2024-02-09::17:01:07] [INFO]: Starting unit test...
+[2024-02-09::17:01:40] [INFO]: Starting unit test...
+[2024-02-09::17:01:57] [INFO]: Succeeded building engine!
+[2024-02-09::17:03:34] [INFO]: Starting unit test...
+[2024-02-09::17:03:51] [INFO]: Succeeded building engine!
+[2024-02-09::17:03:51] [INFO]: All tests are passed!!
+[2024-02-09::17:04:29] [INFO]: Starting unit test...
+[2024-02-09::17:04:45] [INFO]: Starting unit test...
+[2024-02-09::17:04:48] [INFO]: All tests are passed!!
+[2024-02-09::17:06:13] [INFO]: Starting unit test...
+[2024-02-09::17:06:31] [INFO]: Succeeded building engine!
+[2024-02-09::17:06:31] [INFO]: All tests are passed!!
+[2024-02-09::17:58:05] [INFO]: Starting unit test...
+[2024-02-09::17:58:27] [INFO]: Succeeded building engine!
+[2024-02-09::17:59:57] [INFO]: Starting unit test...
+[2024-02-09::18:00:17] [INFO]: Succeeded loading engine!
+[2024-02-09::18:00:31] [INFO]: Starting unit test...
+[2024-02-09::18:00:55] [INFO]: Succeeded building engine!
+[2024-02-09::18:03:54] [INFO]: Starting unit test...
+[2024-02-09::18:06:04] [INFO]: Succeeded building engine!
+[2024-02-09::18:08:18] [INFO]: All tests are passed!!
+[2024-02-09::18:17:23] [INFO]: Starting unit test...
+[2024-02-09::20:20:58] [INFO]: Starting unit test...
+[2024-02-09::20:21:15] [INFO]: Succeeded building engine!
+[2024-02-09::20:21:15] [INFO]: All tests are passed!!
+[2024-02-09::21:34:05] [INFO]: Starting unit test...
+[2024-02-09::21:34:23] [INFO]: Succeeded building engine!
+[2024-02-09::21:34:23] [INFO]: All tests are passed!!
