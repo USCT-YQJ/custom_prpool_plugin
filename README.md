@@ -1,7 +1,7 @@
 ## TensorRT custom plugin -> Prpool implement
 ## TensorRT 8.5.3.1
 TensorRT8.5.3.1 install refer to 
-![install TensorRT and set environment PATH](https://zhuanlan.zhihu.com/p/682000051)
+(https://zhuanlan.zhihu.com/p/682000051)
 ### First use gcc make 
 Run make clean and make in the ./custom_prpool_plugin and generate .so file , just as follow:
 ![6a06516e09033288bea552873cdd7f4](https://github.com/USCT-YQJ/custom_prpool_plugin/assets/96329803/3842d10c-d4cc-4955-8fac-6c40f636751a)
